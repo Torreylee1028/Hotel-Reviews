@@ -1,4 +1,4 @@
-# Text Mining Hotel Reviews
+# Hotel Reviews
 ## Text Mining Project
 
 ### Tools
