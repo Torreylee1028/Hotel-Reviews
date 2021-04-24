@@ -1,5 +1,5 @@
 # Hotel Reviews
-## Text Mining Project
+## Text Mining
 
 ### Tools
 * NLTK Library
