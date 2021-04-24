@@ -1,1 +1,1 @@
-# Text-Mining-Hotel-Reviews
+# Text Mining Hotel Reviews
