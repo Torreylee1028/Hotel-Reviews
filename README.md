@@ -18,7 +18,7 @@
 | File        | Description |
 | ----------- | ----------- |
 | Data      | Data files used to run the program  |
-| Graphs    | Graph outputs |
+| graphs    | Graph outputs |
 | 01. Reviews_DataPrep_EDA.ipynb   | Dataset cleaning and initial EDA |
 | 02. Reviews_Text_PreProcessing.ipynb | Text pre-processing conducted with nltk |
 | 03. Reviews_Text_Insights&Analysis.ipynb | Text mining word clouds, TF-IDF, Bi-Grams |
