@@ -23,4 +23,4 @@
 | 02. Reviews_Text_PreProcessing.ipynb | Text pre-processing conducted with nltk |
 | 03. Reviews_Text_Insights&Analysis.ipynb | Text mining word clouds, TF-IDF, Bi-Grams |
 | 04. Reviews_TextLink.Rmd | Text mining with bi-grams and tri-grams, word graph networks |
-| requirements.text | Required packages to run the script |
+| requirements.text | Required packages to run the python script |
