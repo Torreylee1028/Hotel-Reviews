@@ -1,6 +1,8 @@
 # Hotel Reviews
 ## Text Mining
 
+Text mining hotel reviews segretating into positive and negative reviews to find themes among the two sentiments. Uses bi-grams, word clouds, and TF-IDF. 
+
 ### Tools
 * R
 * Python
